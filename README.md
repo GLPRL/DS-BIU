@@ -7,3 +7,9 @@ https://www.kaggle.com/datasets/joelmott/flight-delays-dataset
 
 The dataset is over than 25MB therefore we cannot add it to the git.
 The file was loaded from the drive in Colab and not locally, so the work will be less time consuming.
+
+
+## Part 2:
+The file's name is ex2.ipynb.
+We also added requirements.txt to clarify library versions and non-standard libraries, such as holidays.
+All the library imports and installations (using pip) are implemented at the beginning of the code for easy installations and imports.
