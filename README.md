@@ -10,6 +10,6 @@ The file was loaded from the drive in Colab and not locally, so the work will be
 
 
 ## Part 2:
-The file's name is ex2.ipynb.
+The file's name is BIU-DS-2.ipynb.
 We also added requirements.txt to clarify library versions and non-standard libraries, such as holidays.
 All the library imports and installations (using pip) are implemented at the beginning of the code for easy installations and imports.
