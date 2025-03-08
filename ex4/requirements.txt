@@ -1,0 +1,6 @@
+All required libraries and specific version are also in the first code block of the project, installing and importing them as well.
+
+holidays
+efficient_apriori
+imbalanced-learn==0.10.0
+mlxtend
