@@ -15,7 +15,7 @@ We also added requirements.txt to clarify library versions and non-standard libr
 All the library imports and installations (using pip) are implemented at the beginning of the code for easy installations and imports.
 
 ## Final Part:
-The file's name is ex4.ipynb.
+The file's name is ex4.ipynb, located in ex4 folder.
 the adc_X.csv files are required as they are our datasets.
 We modified the columns of arr_delay 's in order to match the code.
 Instead of working on the departure delays, as we couldn't find sufficient datasets, we decided to work on arrival delays,
